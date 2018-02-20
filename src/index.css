@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(./water.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#root{
+  width: 100%;
+}
+
+#main{
+  padding-left: 50%;
+  width: 500px;
+  display: block;
+  text-align: center;
+}
